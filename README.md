@@ -9,8 +9,7 @@ Readings are mostly from:
 - Eloquent JS
 - Javascript.info
 - The JS Way
-- 
-
+  
 ## Lessons Learned:
 
 Everything from learning exactly what a function is to Promises. The lessons learned are many, and is the compartmentalisation of my whole software engineering journey. 
